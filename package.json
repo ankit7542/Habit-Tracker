@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ankit7542/Habit-Tracker"
   },
   "author": "Ankit Kumar",
   "license": "Coding Ninjas",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ankit7542/Habit-Tracker"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ankit7542/Habit-Tracker",
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^3.1.6",
